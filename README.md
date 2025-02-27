@@ -7,19 +7,14 @@
   />
 </p>
 
+
+
 <h1 align="center">
-  <span id="greeting">Привет, я CHUKEPC</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Привет, я CHUKEPC <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <p align="center">
-  <b><span id="description">Python-разработчик: парсинг, автоматизация, телеграм-боты и ещё много всего!</span></b>
-</p>
-
-<p align="center">
-  <select id="language-select">
-    <option value="ru">Русский</option>
-    <option value="en">English</option>
-  </select>
+  <b>Python-разработчик: парсинг, автоматизация, телеграм-боты и ещё много всего!</b>
 </p>
 
 <p align="center">
@@ -41,42 +36,20 @@
   />
 </p>
 
-<script>
-  const languageSelect = document.getElementById('language-select');
-  const greeting = document.getElementById('greeting');
-  const description = document.getElementById('description');
-
-  const translations = {
-    ru: {
-      greeting: 'Привет, я CHUKEPC',
-      description: 'Python-разработчик: парсинг, автоматизация, телеграм-боты и ещё много всего!'
-    },
-    en: {
-      greeting: 'Hello, I am CHUKEPC',
-      description: 'Python developer: parsing, automation, Telegram bots, and much more!'
-    }
-  };
-
-  languageSelect.addEventListener('change', (event) => {
-    const selectedLanguage = event.target.value;
-    greeting.textContent = translations[selectedLanguage].greeting;
-    description.textContent = translations[selectedLanguage].description;
-  });
-</script>
 
 ---
 
-## 📝 <span id="about-me">Обо мне</span>
+## 📝 Обо мне
 
-- <span id="about-me-text">Меня зовут **Артём**, увлекаюсь программированием с 2019 года, детально начал изучать с 2022 года, на данный момент учусь в **НГТУ (НЭТИ)** на факультете **АВТ** по специальности **"Информационные системы и технологии в промышлености и бизнесе"**
+- Меня зовут **Артём**, увлекаюсь программированием с 2019 года, детально начал изучать с 2022 года, на данный момент учусь в **НГТУ (НЭТИ)** на факультете **АВТ** по специальности **"Информационные системы и технологии в промышлености и бизнесе"**
 - Занимаюсь **парсингом**, **автоматизацией** и разработкой **телеграм-ботов** на Python  
 - Работаю с **API**, базами данных (**MySQL, SQLite, PostgreSQL**), осваиваю **DevOps**-инструменты (Git, Docker, Linux)  
 - Люблю фронтенд (HTML/CSS/JS) и **backend** (Flask, FastAPI)  
-- Веду **Telegram-канал** с 45 подписчиками, где делюсь своей жизнью, своим опытом и полезными фишками</span>  
+- Веду **Telegram-канал** с 45 подписчиками, где делюсь своей жизнью, своим опытом и полезными фишками  
 
 ---
 
-## ⚡️ <span id="technologies">Технологии и инструменты</span>
+## ⚡️ Технологии и инструменты
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -128,6 +101,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CHUKEPC&theme=dracula&column=4" alt="trophies" />
 </p>
+
+---
 
 ---
 
