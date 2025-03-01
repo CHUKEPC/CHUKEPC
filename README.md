@@ -88,7 +88,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUKEPC&layout=compact&hide_border=true&title_color=FFAE00"
     alt="Top Langs" 
   />
-  
+</p>
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=CHUKEPC&show_icons=true&theme=radical&hide_border=true&count_private=true"
     alt="GitHub stats" 
