@@ -105,8 +105,6 @@
 
 ---
 
----
-
 ## 📬 Связаться со мной
 
 - **Telegram**: [@ArtyomRoyal](https://t.me/ArtyomRoyal) 
